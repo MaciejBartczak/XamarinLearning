@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("XamarinLearning.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("XamarinLearningTask3.Resource", IsApplication=true)]
 
-namespace XamarinLearning
+namespace XamarinLearningTask3
 {
 	
 	
@@ -53,22 +53,6 @@ namespace XamarinLearning
 			}
 			
 			private Drawable()
-			{
-			}
-		}
-		
-		public partial class Id
-		{
-			
-			// aapt resource value: 0x7f050000
-			public const int myButton = 2131034112;
-			
-			static Id()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Id()
 			{
 			}
 		}

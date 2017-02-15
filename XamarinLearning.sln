@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinLearning", "XamarinLearning\XamarinLearning.csproj", "{65423505-BC49-4B64-97CA-402D10F26282}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinLearningTask1", "XamarinLearning\XamarinLearningTask1.csproj", "{65423505-BC49-4B64-97CA-402D10F26282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinLearningTask2", "XamarinLearningTask2\XamarinLearningTask2.csproj", "{6F0BD8AE-E133-4806-A8FE-422A28B3A787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinLearningTask3", "XamarinLearningTask3\XamarinLearningTask3.csproj", "{8ED8C53A-4029-4BD4-8D21-9FA648D1C3AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +21,18 @@ Global
 		{65423505-BC49-4B64-97CA-402D10F26282}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65423505-BC49-4B64-97CA-402D10F26282}.Release|Any CPU.Build.0 = Release|Any CPU
 		{65423505-BC49-4B64-97CA-402D10F26282}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6F0BD8AE-E133-4806-A8FE-422A28B3A787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0BD8AE-E133-4806-A8FE-422A28B3A787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0BD8AE-E133-4806-A8FE-422A28B3A787}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6F0BD8AE-E133-4806-A8FE-422A28B3A787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0BD8AE-E133-4806-A8FE-422A28B3A787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0BD8AE-E133-4806-A8FE-422A28B3A787}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8ED8C53A-4029-4BD4-8D21-9FA648D1C3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED8C53A-4029-4BD4-8D21-9FA648D1C3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED8C53A-4029-4BD4-8D21-9FA648D1C3AE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8ED8C53A-4029-4BD4-8D21-9FA648D1C3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED8C53A-4029-4BD4-8D21-9FA648D1C3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED8C53A-4029-4BD4-8D21-9FA648D1C3AE}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
