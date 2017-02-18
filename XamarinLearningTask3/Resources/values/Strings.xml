@@ -2,4 +2,19 @@
 <resources>
     <string name="Hello">Hello World, Click Me!</string>
     <string name="ApplicationName">XamarinLearningTask3</string>
+  <string-array name="italianFood">
+    <item>Pizza</item>
+    <item>Pasta</item>
+    <item>Salami</item>
+  </string-array>
+  <string-array name="frenchFood">
+    <item>Snails</item>
+    <item>Vine</item>
+    <item>Cheese</item>
+    <item>Frogs</item>
+  </string-array>
+  <string name="ToggleOnText">Turn off Lists</string>
+  <string name="ToggleOffText">Turn on Lists</string>
+  <string name="ItalianRadioButton">Italian</string>
+  <string name="FrenchRadioButton">French</string>
 </resources>

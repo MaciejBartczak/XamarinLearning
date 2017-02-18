@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("XamarinLearningTask3.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("XamarinLearningTest.Resource", IsApplication=true)]
 
-namespace XamarinLearningTask3
+namespace XamarinLearningTest
 {
 	
 	
@@ -26,25 +26,6 @@ namespace XamarinLearningTask3
 		
 		public static void UpdateIdValues()
 		{
-		}
-		
-		public partial class Array
-		{
-			
-			// aapt resource value: 0x7f050001
-			public const int frenchFood = 2131034113;
-			
-			// aapt resource value: 0x7f050000
-			public const int italianFood = 2131034112;
-			
-			static Array()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Array()
-			{
-			}
 		}
 		
 		public partial class Attribute
@@ -76,34 +57,6 @@ namespace XamarinLearningTask3
 			}
 		}
 		
-		public partial class Id
-		{
-			
-			// aapt resource value: 0x7f060002
-			public const int radioButton1 = 2131099650;
-			
-			// aapt resource value: 0x7f060003
-			public const int radioButton2 = 2131099651;
-			
-			// aapt resource value: 0x7f060001
-			public const int radioGroup1 = 2131099649;
-			
-			// aapt resource value: 0x7f060004
-			public const int spinner1 = 2131099652;
-			
-			// aapt resource value: 0x7f060000
-			public const int toggleButton1 = 2131099648;
-			
-			static Id()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Id()
-			{
-			}
-		}
-		
 		public partial class Layout
 		{
 			
@@ -126,20 +79,8 @@ namespace XamarinLearningTask3
 			// aapt resource value: 0x7f040001
 			public const int ApplicationName = 2130968577;
 			
-			// aapt resource value: 0x7f040005
-			public const int FrenchRadioButton = 2130968581;
-			
 			// aapt resource value: 0x7f040000
 			public const int Hello = 2130968576;
-			
-			// aapt resource value: 0x7f040004
-			public const int ItalianRadioButton = 2130968580;
-			
-			// aapt resource value: 0x7f040003
-			public const int ToggleOffText = 2130968579;
-			
-			// aapt resource value: 0x7f040002
-			public const int ToggleOnText = 2130968578;
 			
 			static String()
 			{
